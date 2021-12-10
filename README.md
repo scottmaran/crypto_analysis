@@ -1,1 +1,1 @@
-# crypto_analysis
+Project using the cryptocurrency data provided in the G-Research competition (https://www.kaggle.com/c/g-research-crypto-forecasting). Investigating dependency relationships among largest cryptocurrencies and basic forecasting models
